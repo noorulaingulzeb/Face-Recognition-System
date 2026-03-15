@@ -1,6 +1,6 @@
 # Face Recognition System
 
-This project implements a **face detection and recognition system** using Python, OpenCV, and the face_recognition library.
+This project implements a face detection and recognition system using Python, OpenCV, and the face_recognition library.
 
 ## Features
 - Detects faces in images
